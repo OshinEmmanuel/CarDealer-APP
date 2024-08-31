@@ -1,0 +1,4 @@
+admin	admin	True
+testadmin	admin	False
+nur	nur	False
+Emmanuel	Adekunle	False

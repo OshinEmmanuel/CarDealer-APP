@@ -1,0 +1,2 @@
+Toyota	Corolla	123456	2024	4000	False
+Lexus	ES330	34567	2020	3000	True

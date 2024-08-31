@@ -1,0 +1,43 @@
+===========================================
+                 INVOICE                   
+===========================================
+
+Date: 2024-08-31
+Invoice #: 638606973358093798
+
+Seller:
+Kenny Car Dealership
+1234 Elm Street, London, UK
+Chelsea, State, ZIP
+Phone: (123) 456-7890
+
+Buyer:
+Name: Emmanuel
+FullName: Emmanuel Oshin
+Address: Lagos, Nigeria
+Contact: 08063899464
+Email: emma@yahoo.com
+
+Car Details:
+-------------------------------------------
+Lot Number: 123456
+Make: Toyota
+Model: Corolla
+Year: 2024
+Price: $4000
+-------------------------------------------
+
+Payment Information:
+Payment Method: Online
+Card Number: 526277281911011
+Total Amount Due: $4000.00
+
+===========================================
+Thank you for your business!
+
+Signature: __________________
+
+Please make all checks payable to Kenny Car Dealership.
+If you have any questions concerning this invoice, contact our office at (123) 456-7890.
+
+===========================================
