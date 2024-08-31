@@ -111,7 +111,7 @@ void UserMenu()
             case "4":
                 return;
             default:
-                Console.WriteLine("Invalid choice. Press any key to try the process again.");
+                Console.WriteLine("Invalid choice. Press any key to continue. Thank You.");
                 Console.ReadKey();
                 break;
         }
